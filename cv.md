@@ -1,7 +1,7 @@
 # ANASTASIYA TOLSTSIKAVA
 ### Java/AEM Developer
 
-
+<img src="resources/photo.jpg" alt="photo" style="width:200px;"/>
 
 ### CONTACTS
 * Gmail: Nastyalemon999@gmail.com
